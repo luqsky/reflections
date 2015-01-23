@@ -1,0 +1,27 @@
+-How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Because we can see what changed between two file in proper view.
+
+-How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+By viewing the history, we can see our progress and trace the mistake we had do in the past ( early version ).
+
+-What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google dosc does?
+
+the pros - we can select the best and right code block we want to commit and the cons is we can't make a mistake like, we write a long code then forger to commit or the suddent problem occur and there are a big piece of code disappaer because we no commit it yet. This is the pros of automatic saving in google docs to overcome this type of problem.
+
+-Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each other file separately?
+
+This is because in coding, the update of multiple files is important because every files which is connected need each other to function properly. File like document which not related to each other can use independently.
+
+-How can you use the commands git log and git diff to view the history of files?
+
+We use git log to view all the commit records and the notes about what is changed made. and by using git diff we can compare between to commit about how much the lines has changing and what is added and deleted from previous commit.
+
+-How might using version control make you more confident to make changes that could break something?
+
+I don't need to worry to make mistake and break everything because its just like time machine where I can go back to any version and make the correction or debugging easily.
+
+-Now that you have your workspace set up, what do you want to try using Git for?
+
+I will use Git for my application development project.
