@@ -8,3 +8,5 @@ The value its offer we don't want make a clutter or too many file was commit in 
 How can you use the staging area to make sure you have one commit per logical change?
 We can add multiple file to staging area that have different change but connected, that why we can make sure it is in one commit.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you need do a separate testing or different version with some inheritance features from the master code. It will help because the version/branch is easy to access.
