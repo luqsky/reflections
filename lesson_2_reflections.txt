@@ -7,3 +7,4 @@ The value its offer we don't want make a clutter or too many file was commit in 
 
 How can you use the staging area to make sure you have one commit per logical change?
 We can add multiple file to staging area that have different change but connected, that why we can make sure it is in one commit.
+
