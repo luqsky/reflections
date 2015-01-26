@@ -10,3 +10,6 @@ We can add multiple file to staging area that have different change but connecte
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you need do a separate testing or different version with some inheritance features from the master code. It will help because the version/branch is easy to access.
+
+How do the diagrams help you visualize the branch structure?
+The diagram show clearly when we create a new branch and we can track every commit easily.
