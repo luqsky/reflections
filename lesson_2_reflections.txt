@@ -16,3 +16,6 @@ The diagram show clearly when we create a new branch and we can track every comm
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It will become one commit and the commit from other branch will insert into master branch. Because the diagram will show every commit and its parent.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Merging automatically, we need always take care the conflict while manually we can check the conflict before merging happen.
