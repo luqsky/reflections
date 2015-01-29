@@ -6,3 +6,6 @@ Because we always wants the update in control, usually we just update on GitHub 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The main benefit is to keep the sync proses between local and GitHub can be done properly without any disorder. Beside that,if the conflict happen, git can resolve it with proper manner.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I will using email, messenger, and any available cloud services. It will more difficult to collaborate with GitHub because the others tools available not really focus for coding purpose. it is more for general use.
