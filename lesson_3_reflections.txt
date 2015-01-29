@@ -3,3 +3,6 @@ When I collaborates with other people or in the where I don't have my laptop, on
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because we always wants the update in control, usually we just update on GitHub when the changes is confirm and no error. Other than that to save bandwidth( when you have limited bandwidth)
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+The main benefit is to keep the sync proses between local and GitHub can be done properly without any disorder. Beside that,if the conflict happen, git can resolve it with proper manner.
