@@ -9,3 +9,6 @@ The main benefit is to keep the sync proses between local and GitHub can be done
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I will using email, messenger, and any available cloud services. It will more difficult to collaborate with GitHub because the others tools available not really focus for coding purpose. it is more for general use.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When there are different change in collaboration where the change is important. Time saving. 
